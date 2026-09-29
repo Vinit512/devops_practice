@@ -3,3 +3,5 @@ print("YOKSO WATASHI NO PRACTICE MODE 1 DESU")
 
 print("Login Feature Added")
 print("Feature Branch Example")
+
+print("This is zanpakto kyoka suigetsu")
